@@ -1,0 +1,23 @@
+[33mcommit cca89d5c7d79cf050c53518a91ee85b21988f197[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Vaishnavi <vaishnavidhanavade9@example.com>
+Commit: Vaishnavi <vaishnavidhanavade9@example.com>
+
+    2nd changes
+
+[33mcommit af4fd72fd15fb2f368782b9551b2ecc537fd8206[m
+Author: Vaishnavi <vaishnavidhanavade9@example.com>
+Commit: Vaishnavi <vaishnavidhanavade9@example.com>
+
+    rest all files
+
+[33mcommit 28b7e1318d4866f0eaf282e633bc422b1c78be75[m
+Author: Vaishnavi <vaishnavidhanavade9@example.com>
+Commit: Vaishnavi <vaishnavidhanavade9@example.com>
+
+    pom.xml
+
+[33mcommit 79198b2c897098e4d502f3d3755311ae085ef6c9[m
+Author: Vaishnavi <vaishnavidhanavade9@example.com>
+Commit: Vaishnavi <vaishnavidhanavade9@example.com>
+
+    Docker file
